@@ -4,7 +4,7 @@
 -- Note Velocity: OFF --
 -- Sustain Pedal: OFF --
 
-bpm = 172
+bpm = 75
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/hellohellohell012321/TALENTLESS/main/loader_main.lua", true))()
 
